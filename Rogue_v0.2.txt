@@ -1,0 +1,2 @@
+Esta es la segunda prueba de subir un archivo, pero a través de mi laptop
+con una cuenta de git con tipo de invitado. 
